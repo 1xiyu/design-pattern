@@ -50,3 +50,4 @@ var Singleton = (function(){
     }
 })();
 
+Singleton.getInstance().method();
